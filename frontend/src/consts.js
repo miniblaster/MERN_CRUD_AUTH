@@ -1,0 +1,7 @@
+const SERVER_URL = "http://localhost:4000/"
+export const ALL_TASKS_URL = SERVER_URL+"tasks"
+export const ADD_TASK_URL = SERVER_URL+"tasks/add"
+export const DELETE_TASK_URL = SERVER_URL+"tasks/"
+export const UPDATE_TASK_URL = SERVER_URL+"tasks/update/"
+export const LOGIN_URL = SERVER_URL+"auth/login"
+export const SIGNUP_URL = SERVER_URL+"auth/signup"
